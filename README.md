@@ -38,9 +38,6 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
     </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldDayss&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
     
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
