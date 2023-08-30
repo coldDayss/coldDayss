@@ -37,6 +37,19 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
     </div>
+
+<br>
+
+# Baekjoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
+
+<br>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/abcdean2/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/abcdean2/"> </a>
