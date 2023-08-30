@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hi%20there%20👋%20l'm%20Chanill%20Park&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
+    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> AI 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 저는 부산대학교 인공지능대학원 석사과정 VIP_LAB 소속 박찬일입니다. </div> 
@@ -37,11 +38,17 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
     </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldDayss&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/abcdean2/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=@abcdean2"> </a>
          <a href=mailto:deanpark301@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:deanpark301@gmail.com"> </a>
           </div>  <br> 
-    <div style="text-align: left;">  </div> 
+        
+    <div style="text-align: left;"> 
+    </div> 
 
     
