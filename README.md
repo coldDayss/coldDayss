@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 # Baekjoon
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin266&theme=dark)](https://solved.ac/hyunmin266/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monster123&theme=dark)](https://solved.ac/monster123/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=monster123&theme=dark)](https://solved.ac/monster123/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunmin2667&theme=dark)](https://solved.ac/hyunmin266/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=monster1237&theme=dark)](https://solved.ac/monster123/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=monster1237&theme=dark)](https://solved.ac/monster123/)
 
 <br>
 </div> 
