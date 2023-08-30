@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **coldDayss/coldDayss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,10 +43,5 @@ Here are some ideas to get you started:
          <a href=mailto:deanpark301@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:deanpark301@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Chanill Park&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanill Park&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+
     
